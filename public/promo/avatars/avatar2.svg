@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+  <circle cx="50" cy="50" r="46" fill="#0984E3" stroke="#FFFFFF" stroke-width="6"/>
+  <!-- face -->
+  <circle cx="50" cy="52" r="28" fill="#F5CD79"/>
+  <!-- cap visor -->
+  <path d="M22 34 C25 22, 75 22, 78 34 Z" fill="#00B894"/>
+  <path d="M20 34 C35 30, 65 30, 84 37 C75 42, 40 40, 20 34 Z" fill="#00CEC9"/>
+  <!-- sunglasses -->
+  <rect x="32" y="46" width="15" height="11" rx="3" fill="#2D3436"/>
+  <rect x="53" y="46" width="15" height="11" rx="3" fill="#2D3436"/>
+  <line x1="47" y1="51" x2="53" y2="51" stroke="#2D3436" stroke-width="2.5"/>
+  <!-- cool grin -->
+  <path d="M43 64 Q52 70 57 63" stroke="#2D3436" stroke-width="2.5" stroke-linecap="round" fill="none"/>
+</svg>
